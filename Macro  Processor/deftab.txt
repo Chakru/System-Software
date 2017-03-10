@@ -1,0 +1,6 @@
+parth	MACRO	&A1,&A2
+**	LDA	A1
+**	ADD	A2
+**	STA	RES
+**	MEND	**
+	

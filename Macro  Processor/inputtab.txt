@@ -1,0 +1,4 @@
+**	LDA	R
+**	STA	DS
+parth	MACRO	P,Q
+**	ADD	B
